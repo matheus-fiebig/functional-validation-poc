@@ -1,0 +1,15 @@
+C:\Users\macru\_source\personal_repos\functional-excel\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\macru\_source\personal_repos\functional-excel\Application\bin\Debug\net7.0\Application.dll
+C:\Users\macru\_source\personal_repos\functional-excel\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\macru\_source\personal_repos\functional-excel\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\macru\_source\personal_repos\functional-excel\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.dll
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\macru\_source\personal_repos\functional-excel\Application\obj\Debug\net7.0\ref\Application.dll
